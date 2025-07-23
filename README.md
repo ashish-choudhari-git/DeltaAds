@@ -79,7 +79,7 @@ cd deltaAds
 ```bash
 cd backend
 npm install
-npm run dev
+node server.js
 ```
 
 > Make sure to add your MongoDB URI in `.env`
